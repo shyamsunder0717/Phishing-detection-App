@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-[ ]<p align="middle"><img src="https://github.com/gangeshbaskerr/DriverDrowsinessDetection-OneAPI/assets/130077430/54288088-6305-43f6-b74e-f23f6184be1b.jpg" width="1000" height="250">
-    ![made-with-jupyter-notebook](https://user-images.githubusercontent.com/130077430/230479936-93dbcbd0-275b-4af7-9231-cceeb91d8a84.svg)![built-by-team-geeks](https://user-images.githubusercontent.com/130077430/230486285-e9e8fdbc-4579-4d0e-a448-550b423199b2.svg)[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gangeshbaskerr/DriverDrowsinessDetection-OneAPI"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/gangeshbaskerr/DriverDrowsinessDetection-OneAPI?style=social">
-<hr/>
 
 # Inspiration  <img src="https://user-images.githubusercontent.com/130077430/230579469-c1263cef-784e-4845-93fb-2f73544e49e1.png" width="90" height="80"> 
 Phishing attacks have emerged as a significant and persistent threat in the digital landscape, targeting individuals, organizations, and even governments. These deceptive techniques employed by cybercriminals aim to trick unsuspecting users into divulging sensitive information, such as login credentials, financial details, or personal data.
