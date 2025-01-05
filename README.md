@@ -182,5 +182,3 @@ Through this project there will be 40-50% decrease in number of phishing attacks
 
 <hr/>
 =======
-# Phishing-detection-App
->>>>>>> 61e1062ecfee1bdf18115155e21d166e0c2bfe78
