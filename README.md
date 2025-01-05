@@ -120,6 +120,12 @@ We did 50 epochs, to get a good accuracy from the XGBoost model i.e. 86.7% for t
 
 <hr/>
 
+## Presentation
+
+The slide presentaion used in this video is [Phishing Website Detection Presentation.pdf](https://github.com/shyamsunder0717/Phishing-detection-App/blob/main/DataFiles/Phishing%20Website%20Detection%20Presentation.pdf)
+
+## End Results
+
 # Result <img src="https://cdn4.iconfinder.com/data/icons/business-startup-36/64/552-512.png" width="90" height="80">
 
 From the obtained results of the above models, XGBoost Classifier has highest model performance of 86.7%. So the model is saved to the file 'XGBoostClassifier.pickle.dat'
