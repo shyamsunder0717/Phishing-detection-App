@@ -52,6 +52,7 @@ In the following sections, we will discuss the related literature, present the m
        2) Numpy
        3) Pandas
        4) SciKit-Learn
+       
 ## 2️⃣ Understand the dataset
 Datasets containing phishing and legitimate websites is collected from open-source platform PhishTank.
 [click here!](https://devmesh.intel.com/projects/driver-drowsiness-detection-70c5e4)
@@ -62,6 +63,13 @@ From this dataset, 5000 random phishing URLs are collected to train the machine 
 The legitimate URLs are obatined from the open datasets of the University of New Brunswick, [click here!](https://www.unb.ca/cic/datasets/url-2016.html). 
 This dataset has a collection of benign, spam, phishing, malware & defacement URLs. Out of all these types, the benign url dataset is considered for this project.
 From this dataset, 5000 random legitimate URLs are collected to train the ML models.
+
+## Data Collection
+The set of phishing URLs are collected from opensource service called **PhishTank**. This service provide a set of phishing URLs in multiple formats like csv, json etc. that gets updated hourly. To download the data: https://www.phishtank.com/developer_info.php. From this dataset, 5000 random phishing URLs are collected to train the ML models.
+
+The legitimate URLs are obatined from the open datasets of the University of New Brunswick, https://www.unb.ca/cic/datasets/url-2016.html. This dataset has a collection of benign, spam, phishing, malware & defacement URLs. Out of all these types, the benign url dataset is considered for this project. From this dataset, 5000 random legitimate URLs are collected to train the ML models.
+
+The above mentioned datasets are uploaded to the '[DataFiles](https://github.com/shreyagopal/Phishing-Website-Detection-by-Machine-Learning-Techniques/tree/master/DataFiles)' folder of this repository.
 ## 3️⃣ Feature Extraction
 **The below-mentioned category of features are extracted from the URL data: ​**
 
