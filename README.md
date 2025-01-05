@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [ ]<p align="middle"><img src="https://github.com/gangeshbaskerr/DriverDrowsinessDetection-OneAPI/assets/130077430/54288088-6305-43f6-b74e-f23f6184be1b.jpg" width="1000" height="250">
     ![made-with-jupyter-notebook](https://user-images.githubusercontent.com/130077430/230479936-93dbcbd0-275b-4af7-9231-cceeb91d8a84.svg)![built-by-team-geeks](https://user-images.githubusercontent.com/130077430/230486285-e9e8fdbc-4579-4d0e-a448-550b423199b2.svg)[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gangeshbaskerr/DriverDrowsinessDetection-OneAPI"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/gangeshbaskerr/DriverDrowsinessDetection-OneAPI?style=social">
@@ -185,3 +186,6 @@ Through this project there will be 40-50% decrease in number of phishing attacks
 
 
 <hr/>
+=======
+# Phishing-detection-App
+>>>>>>> 61e1062ecfee1bdf18115155e21d166e0c2bfe78
